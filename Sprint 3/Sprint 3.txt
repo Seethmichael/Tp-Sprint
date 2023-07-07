@@ -1,0 +1,11 @@
+   Sprint 3:
+Creation d'une:
+          --Urls=Annotation.
+          --Emp:methode+annotation.
+          --Utils:fonction de recuperation d'une methode annotee.
+          --FrontServlet=
+            -init 
+            -remplissage de HashMap
+
+objectif:mameno HashMap amin’ny alalan’ny Url annotation izay atao cle dia ilay value ilay 
+Mapping
