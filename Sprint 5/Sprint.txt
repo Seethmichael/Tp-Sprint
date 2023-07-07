@@ -1,0 +1,5 @@
+Sprint 3 : Mliste anle methode rehetra ary annoteny avadiny url afaka vakiany view ilay methode
+urls:annotation ,
+utils:classe utilitaire , ipetrahany fonction atsoina ao am frontservelt
+mapping:fenetre maka anle methode
+frontservelt:miexecuter an;le action ,, 
